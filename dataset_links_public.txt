@@ -1,0 +1,4 @@
+fma_small: https://drive.google.com/drive/folders/1jlYv3WmU_p-cERsopH2vLWpx4gvxXhXx
+music files
+fma_metadata: https://drive.google.com/drive/folders/1jlYv3WmU_p-cERsopH2vLWpx4gvxXhXx
+CSV files
